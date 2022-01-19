@@ -1,7 +1,7 @@
 class Xyz{
     public void someMethod(){
-	Systemo.out.print("Hello xyz");
-
+	System.out.print("Hello xyz");
+	System.out.print("Hello");
 	}
 
 }
